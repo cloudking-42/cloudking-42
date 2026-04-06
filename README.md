@@ -61,13 +61,13 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cloudking-42&theme=react-dark&hide_border=true&bg_color=0d1117&color=87CEEB&line=5A9FCA&point=B0D4F1&area=true&area_color=6DB3D4"/>
-</div>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg1NWhwZDB0aGRueHNvZW93dGpzcWozeGJoaWh5OHVrZTBlc3lqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" width="250">
 </div>
+<p align="center">
+  Je commencerais a poster sur ce github a partir de aout (avant c'est full revision)
+</p>
 
 ---
 
@@ -76,9 +76,7 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-cloudking--42-5A9FCA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silverfish000)
-[![Discord](https://img.shields.io/badge/Discord-silver000__0__-87CEEB?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/silver000_0_)
-[![Dev.to](https://img.shields.io/badge/dev.to-silver__0__-6DB3D4?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/silver_0_)
-[![CodinGame](https://img.shields.io/badge/CodinGame-Silver000-B0D4F1?style=for-the-badge&logo=codingame&logoColor=333)](https://www.codingame.com/profile/58d9710057d474c5fa5b81ac2c2756a83562207)
+[![Discord](https://img.shields.io/badge/Discord-cloudking__0__-87CEEB?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/cloudking_0_)
 
 </div>
 
