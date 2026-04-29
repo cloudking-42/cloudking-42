@@ -75,7 +75,7 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cloud__AFK-5A9FCA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloud_afk)
+[![GitHub](https://img.shields.io/badge/GitHub-CloudAFK-5A9FCA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloudAFK)
 [![Discord](https://img.shields.io/badge/Discord-cloud__afk-87CEEB?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/cloud_afk)
 
 </div>
