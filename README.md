@@ -43,17 +43,14 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 ![Python](https://img.shields.io/badge/Python-6DB3D4?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-6DB3D4?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-5A9FCA?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4A8FBB?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6DB3D4?style=for-the-badge&logoColor=white)
 
 #### Outils & Environnement
 ![Linux](https://img.shields.io/badge/Linux-B0D4F1?style=for-the-badge&logo=linux&logoColor=333)
 ![Git](https://img.shields.io/badge/Git-5A9FCA?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-87CEEB?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-6DB3D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Sécurité & Renseignement
-![OSINT](https://img.shields.io/badge/OSINT-B0D4F1?style=for-the-badge&logo=searchengineland&logoColor=white)
-![CSINT](https://img.shields.io/badge/CSINT-5A9FCA?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 </div>
 
