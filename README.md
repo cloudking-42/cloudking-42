@@ -75,8 +75,8 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-cloudking--42-5A9FCA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silverfish000)
-[![Discord](https://img.shields.io/badge/Discord-cloudking__0__-87CEEB?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/cloudking_0_)
+[![GitHub](https://img.shields.io/badge/GitHub-Cloud__AFK-5A9FCA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloud_afk)
+[![Discord](https://img.shields.io/badge/Discord-cloud__afk-87CEEB?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/cloud_afk)
 
 </div>
 
